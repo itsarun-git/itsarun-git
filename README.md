@@ -1,16 +1,36 @@
-## Hi there 👋
+<h2>Hi 👋, I'm Arun Chand, a recent MBA graduate from Utica University.</h2>
+<p>I'm a passionate tech enthusiast with experience in machine learning, predictive modeling, and data analytics. I love solving real-world business problems using AI and data-driven techniques. With a strong foundation in Python, SQL, and Tableau, I'm excited to continue learning and contributing to the field of business analytics.</p>
 
-<!--
-**itsarun-git/itsarun-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🚀 Languages and Tools I Use</h2>
+<p>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h2>🌟 About Me</h2>
+<p>I'm an MBA graduate specializing in business analytics with a focus on machine learning and data-driven decision-making. My recent projects include building classification models, applying natural language processing (NLP), and conducting predictive analysis using advanced machine learning techniques. I also have experience in managing business operations and leading teams to improve performance using data.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💼 Experience</h2>
+<ul>
+  <li><b>Machine Learning Projects | Utica University</b> (08/2023 - Present)<br>
+    Developed AI and machine learning models for real-world business applications, focusing on image classification, feature extraction, and NLP.</li>
+  <li><b>Student Life Coordinator | Utica University</b> (09/2023 - 12/2024)<br>
+    Implemented process improvements based on data-driven insights to enhance student engagement and resource allocation.</li>
+  <li><b>Business Unit Manager | Kickin’ Inn, Australia</b> (04/2021 - 07/2022)<br>
+    Led operations of a $2 million business unit, driving operational efficiency, inventory control, and data-informed decision-making to improve customer satisfaction.</li>
+</ul>
+
+<h2>🎓 Education</h2>
+<ul>
+  <li><b>MBA in Business Analytics</b>, Utica University (4.0 GPA) | Expected Dec 2024</li>
+  <li><b>Bachelor of Information Technology</b>, Southern Cross University (3.1 GPA)</li>
+</ul>
+
+<h2>⚡️ Find Me On:</h2>
+<p>
+<a target="_blank" href="https://www.linkedin.com/in/c-arun" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+</p>

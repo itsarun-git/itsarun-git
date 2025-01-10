@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Arun Chand, a recent MBA graduate from Utica University.</h2>
+<h2>Hi 👋, I'm Arun Chand, MBA graduate from Utica University.</h2>
 <p>I'm a passionate tech enthusiast with experience in machine learning, predictive modeling, and data analytics. I love solving real-world business problems using AI and data-driven techniques. With a strong foundation in Python, SQL, and Tableau, I'm excited to continue learning and contributing to the field of business analytics.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>

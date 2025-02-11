@@ -12,30 +12,36 @@
 </p>
 
 <h2>🌟 About Me</h2>
-<p>I'm an MBA graduate with Data Analytics specialization with a focus on machine learning and data-driven decision-making. My recent projects include building classification models, and conducting predictive analysis using advanced machine learning techniques. I also have experience in managing business operations and leading teams to improve performance using data.My current endavours are learning and applying Natural Language Processing techniques.</p>
+<p>Business Analyst with expertise in data analytics, forecasting, and performance optimization. Over 3 years of experience working for a multi-million-dollar company, driving revenue growth and reducing costs through data-driven strategies. Graduated with an MBA in 2024 with a Data Analytics major to enhance my ability to make strategic, data-informed decisions and lead business transformation. My current endavours are ploishing my Data Analysis and Machine Learning tools and skills.</p>
 
 <h2>💼 Experience</h2>
-<ul>
-  <li><b>Machine Learning Projects | Utica University</b> (08/2023 - Present)<br>
-    Developed AI and machine learning models for real-world business applications, focusing on image classification, feature extraction, and NLP.</li>
-  <li><b>Student Life Coordinator | Utica University</b> (09/2023 - 12/2024)<br>
-    Implemented process improvements based on data-driven insights to enhance student engagement and resource allocation.</li>
-  <li><b>Business Unit Manager | Kickin’ Inn, Australia</b> (04/2021 - 07/2022)<br>
-    Led operations of a $2 million business unit, driving operational efficiency, inventory control, and data-informed decision-making to improve customer satisfaction.</li>
-</ul>
+<h4> BUSINESS ANALYST | 2020 – 2022 [3 YEARS] </h4>
+<b>Kickin’ Inn, Seafood Chain | Melbourne, Australia</b>
+    <li>Created dynamic dashboards with KPIs for weekly and monthly performance tracking, enabling data-driven decisions across 20 locations.</li>	
+    <li>Analyzed regional sales trends and optimized promotional strategies, boosting revenue by 15% and profitability by 4.3%.</li>
+    <li>Forecasted inventory utilization, reducing operational costs by 25% over two years through efficient stock management directives during COVID-19.</li>
+    <li>Provided actionable insights to the executive team, influencing strategic decisions on expansion, cost management, and resource allocation.</li>
+    
+<h4> MANAGER | 2019 – 2020 [1 YEAR] </h4>
+<b>Kickin’ Inn, Seafood Chain | Melbourne, Australia</b>
+   <li>Led a $2M revenue-generating business unit focusing on enhancing customer retention and improving service standards.
+   <li>Managed a team of 30, optimizing staff training, onboarding, and scheduling to boost operational efficiency.
+   <li>Controlled $15K weekly inventory, reducing discrepancies through data-driven forecasting and supply chain improvements.
+   <li>Analyzed customer feedback and market trends to implement strategies that increased customer satisfaction and profitability.
 
 <h2>🎓 Education</h2>
 <ul>
-  <li><b>MBA in Business Analytics</b>, Utica University (4.0 GPA) | Dec 2024</li>
+  <li><b>MBA with Business Analytics</b>, Utica University (4.0 GPA) | Dec 2024</li>
   <h3>📘 Relevant Coursework</h3>
   <ul>
-    <li>Data Science and Machine Learning</li>
+    <li>Data Science</li>
+    <il>Machine Learning</li>
     <li>Data-Driven Decision Making</li>
     <li>Data Visualization</li>
     <li>Corporate Finance and Strategy</li>
     <li>Global Consumer, Market and Logistics</li>
   </ul>
-  <li><b>Bachelor of Information Technology</b>, Southern Cross University (3.1 GPA)</li>
+  <li><b>Bachelor of Information Technology</b>, Southern Cross University (3.1 GPA) | May 2018</li>
 </ul>
 
 <h2>⚡️ Find Me On:</h2>

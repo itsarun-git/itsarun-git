@@ -12,22 +12,24 @@
 </p>
 
 <h2>🌟 About Me</h2>
-<p>Business Analyst with expertise in data analytics, forecasting, and performance optimization. Over 3 years of experience working for a multi-million-dollar company, driving revenue growth and reducing costs through data-driven strategies. Graduated with an MBA in 2024 with a Data Analytics major to enhance my ability to make strategic, data-informed decisions and lead business transformation. My current endavours are ploishing my Data Analysis and Machine Learning tools and skills.</p>
+<p>Data Analyst with multidisciplinary expertise in transforming complex datasets into clear, actionable insights. Proficient in collaborating across functions to analyze and interpret data, delivering concise findings that drive informed decision-making. Skilled at leveraging data to support business solutions, achieve strategic objectives, and effectively communicate insights to diverse stakeholders without using technical jargon.</p>
 
 <h2>💼 Experience</h2>
-<h4> BUSINESS ANALYST | 2020 – 2022 [3 YEARS] </h4>
+<h4>ElevateMe Bootcamp</h4>
+<b>Data Analytics & Machine Learning Fellow Trainee</b>
+    <li>Engaging in 150+ hours of hands-on learning and project work, including active participation in a live project and two optional capstone projects.</li>
+	<li>Apply data analytics and machine learning techniques to address real-world problems.</li>
+	<li>Utilized advanced tools such as Python, Jupyter Notebooks, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn to build and evaluate machine learning models.</li>
+	<li>Deploy machine learning models on Microsoft Azure, integrating Azure ML with Azure SQL databases to enable real-time analytics and predictions.</li>
+	<li>Perform data preprocessing, feature engineering, and model selection, and evaluate regression, classification, and clustering algorithms to optimize performance.</li>
+	<li>Collaborate in a professional team environment using tools like Jira, Confluence, and Slack for project management and effective communication.</li>
+
+<h4> BUSINESS ANALYST | 03/2020 – 07/2022</h4>
 <b>Kickin’ Inn, Seafood Chain | Melbourne, Australia</b>
-    <li>Created dynamic dashboards with KPIs for weekly and monthly performance tracking, enabling data-driven decisions across 20 locations.</li>	
-    <li>Analyzed regional sales trends and optimized promotional strategies, boosting revenue by 15% and profitability by 4.3%.</li>
-    <li>Forecasted inventory utilization, reducing operational costs by 25% over two years through efficient stock management directives during COVID-19.</li>
-    <li>Provided actionable insights to the executive team, influencing strategic decisions on expansion, cost management, and resource allocation.</li>
-    
-<h4> MANAGER | 2019 – 2020 [1 YEAR] </h4>
-<b>Kickin’ Inn, Seafood Chain | Melbourne, Australia</b>
-   <li>Led a $2M revenue-generating business unit focusing on enhancing customer retention and improving service standards.
-   <li>Managed a team of 30, optimizing staff training, onboarding, and scheduling to boost operational efficiency.
-   <li>Controlled $15K weekly inventory, reducing discrepancies through data-driven forecasting and supply chain improvements.
-   <li>Analyzed customer feedback and market trends to implement strategies that increased customer satisfaction and profitability.
+    <li>Increased operational efficiency by optimizing team onboarding and scheduling, reducing staff turnover by 15% over two years.</li>
+	<li>Produced weekly and monthly reports to track sales performance and inventory control, aligning with business growth strategies.</li>
+    <li>Successfully managed $15K in weekly inventory, reducing discrepancies by 10% through data-driven forecasting and supply chain improvements.</li>
+    <li>Implemented customer retention strategies that led to a 20% increase in repeat customers within six months.</li>
 
 <h2>🎓 Education</h2>
 <ul>

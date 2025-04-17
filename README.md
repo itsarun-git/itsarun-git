@@ -24,7 +24,7 @@
 	<li>Perform data preprocessing, feature engineering, and model selection, and evaluate regression, classification, and clustering algorithms to optimize performance.</li>
 	<li>Collaborate in a professional team environment using tools like Jira, Confluence, and Slack for project management and effective communication.</li>
 
-<h4> BUSINESS ANALYST | 03/2020 – 07/2022</h4>
+<h4> BUSINESS MANAGER | 03/2020 – 07/2022</h4>
 <b>Kickin’ Inn, Seafood Chain | Melbourne, Australia</b>
     <li>Increased operational efficiency by optimizing team onboarding and scheduling, reducing staff turnover by 15% over two years.</li>
 	<li>Produced weekly and monthly reports to track sales performance and inventory control, aligning with business growth strategies.</li>

@@ -12,24 +12,9 @@
 </p>
 
 <h2>🌟 About Me</h2>
-<p>Data Analyst with multidisciplinary expertise in transforming complex datasets into clear, actionable insights. Proficient in collaborating across functions to analyze and interpret data, delivering concise findings that drive informed decision-making. Skilled at leveraging data to support business solutions, achieve strategic objectives, and effectively communicate insights to diverse stakeholders without using technical jargon.</p>
+<p>I'm passionate about transforming raw data into actionable insights that drive strategic decisions. With experience working across analytics, research, and financial modeling, I thrive at the intersection of business understanding and technical execution. Whether building predictive models, digging into messy datasets, or uncovering performance trends, I enjoy solving problems that matter. 
+I’m eager to keep growing in the data space, deepening my technical toolkit while expanding into cloud platforms like AWS and Azure that enable scalable, data-driven decision making. Whether working with stakeholders to frame the right questions or digging into complex datasets to find answers, I’m motivated by impact, collaboration, and constant learning.</p>
 
-<h2>💼 Experience</h2>
-<h4>ElevateMe Bootcamp</h4>
-<b>Data Analytics & Machine Learning Fellow Trainee</b>
-    <li>Engaging in 150+ hours of hands-on learning and project work, including active participation in a live project and two optional capstone projects.</li>
-	<li>Apply data analytics and machine learning techniques to address real-world problems.</li>
-	<li>Utilized advanced tools such as Python, Jupyter Notebooks, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn to build and evaluate machine learning models.</li>
-	<li>Deploy machine learning models on Microsoft Azure, integrating Azure ML with Azure SQL databases to enable real-time analytics and predictions.</li>
-	<li>Perform data preprocessing, feature engineering, and model selection, and evaluate regression, classification, and clustering algorithms to optimize performance.</li>
-	<li>Collaborate in a professional team environment using tools like Jira, Confluence, and Slack for project management and effective communication.</li>
-
-<h4> BUSINESS MANAGER | 03/2020 – 07/2022</h4>
-<b>Kickin’ Inn, Seafood Chain | Melbourne, Australia</b>
-    <li>Increased operational efficiency by optimizing team onboarding and scheduling, reducing staff turnover by 15% over two years.</li>
-	<li>Produced weekly and monthly reports to track sales performance and inventory control, aligning with business growth strategies.</li>
-    <li>Successfully managed $15K in weekly inventory, reducing discrepancies by 10% through data-driven forecasting and supply chain improvements.</li>
-    <li>Implemented customer retention strategies that led to a 20% increase in repeat customers within six months.</li>
 
 <h2>🎓 Education</h2>
 <ul>

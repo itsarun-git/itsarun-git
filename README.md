@@ -1,5 +1,7 @@
-<h2>Hi 👋, I'm Arun Chand, MBA graduate from Utica University.</h2>
-<p>I'm a passionate tech enthusiast with experience in machine learning, predictive modeling, and data analytics. I love solving real-world business problems using AI and data-driven techniques. With a strong foundation in Python, SQL, and Tableau, I'm excited to continue learning and contributing to the field of business analytics.</p>
+<h2>About Me</h2>
+<h3>Hi 👋, I'm Arun </h3>
+<p>I'm passionate about transforming raw data into actionable insights that drive strategic decisions. With experience working across analytics, research, and financial modeling, I thrive at the intersection of business understanding and technical execution. Whether building predictive models, digging into messy datasets, or uncovering performance trends, I enjoy solving problems that matter. 
+I’m eager to keep growing in the data space, deepening my technical toolkit while expanding into cloud platforms like AWS and Azure that enable scalable, data-driven decision making. Whether working with stakeholders to frame the right questions or digging into complex datasets to find answers, I’m motivated by impact, collaboration, and constant learning.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
@@ -10,11 +12,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a> 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 </p>
-
-<h2>🌟 About Me</h2>
-<p>I'm passionate about transforming raw data into actionable insights that drive strategic decisions. With experience working across analytics, research, and financial modeling, I thrive at the intersection of business understanding and technical execution. Whether building predictive models, digging into messy datasets, or uncovering performance trends, I enjoy solving problems that matter. 
-I’m eager to keep growing in the data space, deepening my technical toolkit while expanding into cloud platforms like AWS and Azure that enable scalable, data-driven decision making. Whether working with stakeholders to frame the right questions or digging into complex datasets to find answers, I’m motivated by impact, collaboration, and constant learning.</p>
-
 
 <h2>🎓 Education</h2>
 <ul>

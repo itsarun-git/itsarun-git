@@ -1,7 +1,10 @@
 <h2>About Me</h2>
 <h3>Hi 👋, I'm Arun </h3>
-<p>I'm passionate about transforming raw data into actionable insights that drive strategic decisions. With experience working across analytics, research, and financial modeling, I thrive at the intersection of business understanding and technical execution. Whether building predictive models, digging into messy datasets, or uncovering performance trends, I enjoy solving problems that matter. 
-I’m eager to keep growing in the data space, deepening my technical toolkit while expanding into cloud platforms like AWS and Azure that enable scalable, data-driven decision making. Whether working with stakeholders to frame the right questions or digging into complex datasets to find answers, I’m motivated by impact, collaboration, and constant learning.</p>
+<p>Data & Product Analyst with a strong foundation in data science, machine learning, and business analytics, driving impact across tech, health, and hospitality sectors. Skilled in building end-to-end data pipelines, developing predictive models, conducting A/B testing, and translating complex data into actionable business insights. Proven ability to improve operational efficiency, enhance product usability, and support revenue growth through data-driven decisions.
+
+Currently exploring Large Language Models (LLMs), Vector Databases, Graph Databases and NLP frameworks such as Hugging Face and NLTK, focusing on model experimentation and optimization. Expanding cloud expertise across AWS, Azure, and Snowflake to support scalable data solutions and growth within the evolving data science landscape.
+
+Passionate about bridging data and business strategy, leveraging analytics to unlock insights, optimize processes, and deliver products that align with both user needs and organizational goals.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
